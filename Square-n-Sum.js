@@ -10,4 +10,4 @@ function squareSum(numbers) {
   return result;
 }
 
-console.log(squareSum([1, 2, 2]));
+console.log(squareSum([1, 2, 2])); // 9
